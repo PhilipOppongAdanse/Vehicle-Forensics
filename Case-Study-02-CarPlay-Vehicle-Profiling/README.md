@@ -88,7 +88,7 @@ The artifact provided information including:
 
 ## Evidence Screenshot
 
-![CarPlay Pairings](images/01-carplay-pairings.png)
+![CarPlay Pairings](./Evidence/01-carplay-pairings.png)
 
 ---
 
@@ -188,7 +188,7 @@ The records contained:
 
 ## Evidence Screenshot
 
-![CarPlay Sessions](images/02-carplay-sessions.png)
+![CarPlay Sessions](./Evidence/02-carplay-sessions.png)
 
 ---
 
@@ -263,8 +263,7 @@ This file contained user profiles maintained within the CarPlay environment.
 
 ## Evidence Screenshot
 
-![Device Users](images/03-device-users.png)
-
+![Device Users](./Evidence/03-device-users.png)
 ---
 
 ## Findings
