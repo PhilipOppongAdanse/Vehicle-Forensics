@@ -272,7 +272,7 @@ Three user profiles were identified.
 
 | User | Role |
 |--------|--------|
-| Daniel Owusu | Driver / Owner |
+| Daniel Owusu | Primary Driver |
 | Kwame Mensah | Relief Driver |
 | Ama Owusu | Secondary User |
 
@@ -316,7 +316,7 @@ The evidence demonstrates that Sankofa Van 04 was not operated by a single indiv
 
 Instead, the vehicle maintained a multi-user environment consisting of:
 
-1. Daniel Owusu (Owner and Primary Driver)
+1. Daniel Owusu (Primary Driver)
 2. Kwame Mensah (Relief Driver)
 3. Ama Owusu (Secondary User)
 
