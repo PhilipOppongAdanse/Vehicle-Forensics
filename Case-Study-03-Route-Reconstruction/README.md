@@ -133,7 +133,7 @@ The database was exported into CSV format for analysis.
 
 ### Evidence
 
-![Navigation History SQLite](./Evidence/09-navigation-routes-sqlite.png)
+![Navigation Routes SQLite Export](./Evidence/06-navigation-routes-sqlite.png)
 
 Figure 9: Exported navigation history records.
 
